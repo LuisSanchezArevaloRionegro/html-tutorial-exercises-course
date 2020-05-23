@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "port": 3000,
     "address": "localhost",
     "editor": "standalone",
@@ -176,3 +177,15 @@
         }
     ]
 }
+=======
+    "title": "Learn HTML Interactively",
+    "preview": "https://github.com/4GeeksAcademy/html-tutorial-exercises-course/blob/master/preview.png?raw=true",
+    "description": "Learn the most popular HTML Tags and how to used them with real life interactive examples, automatic grading and video solutions",
+    "language": "html",
+    "intro": "https://www.youtube.com/watch?v=Vd2dby9ind4",
+    "duration": 8,
+    "difficulty": "easy",
+    "video-solutions": true,
+    "graded": true
+}
+>>>>>>> c83e4e7cacd08b8c9996037d4448ad4ca4af5b15
